@@ -82,6 +82,12 @@ a {
   font-weight: 600;
 }
 
+.button {
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  color: white;
+  background: var(--blue);
+}
 /* media queries */
 @media (min-width: 1536px) {
   .innerWidth {
