@@ -4,6 +4,7 @@ import "./App.css";
 import Company from "./components/Company/Company"
 import Residencies from "./components/Residencies/Residencies"
 import Value from "./components/Value/Value"
+import Contact from "./components/Contact/Contact"
 function App() {
   return (
     <div className="App">
@@ -15,6 +16,7 @@ function App() {
       <Company/>
       <Residencies/>
       <Value/>
+      <Contact/>
     </div>
   );
 }
