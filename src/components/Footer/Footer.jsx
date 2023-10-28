@@ -3,7 +3,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <section className="f-wrapper">
-      <div className="innerWidth paddings flex-center f-container">
+      <div className="innerWidth paddings flexCenter f-container">
         <div className="flexColStart f-left">
           <img src="./logo2.png" alt="" width={120} />
           <span className="secondartText">
@@ -13,7 +13,7 @@ const Footer = () => {
           </span>
         </div>
         <div className="flexColStart f-right">
-          <span className="secondartText">Information</span>
+          <span className="primaryText">Information</span>
           <span className="secondartText">145 New York, FL 4578, USA</span>
           <div className="flexCenter f-menu">
             <span>Property</span>

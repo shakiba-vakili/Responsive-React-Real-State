@@ -61,19 +61,40 @@
   color: white;
   scale: 0.8;
 }
+@media (max-width: 1025px) {
 
-@media (max-width: 1024px) {
+
+@media (max-width: 800px) {
   .c-container {
     flex-direction: column;
-  }
-  .c-right {
     justify-content: center;
+    align-items: center;
+
   }
-  .row {
-    flex-direction: column;
+  .c-left {
     width: 100%;
   }
-  .mode{width: 100%;}
+  .c-right {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .c-left .contactModes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
 
-  
+  }
+    .contactModes .row {
+      flex-direction: column;
+      width: 100%;
+
+    }
+    .contactModes .row .mode {
+      width: 100%;
+    }
+ 
+}
 }
