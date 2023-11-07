@@ -1,9 +1,16 @@
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![Html](https://img.shields.io/badge/-Html-000?&logo=Html5)
+
+
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on Vigiato at [vigiato.net](https://vigiato.net/author/shakiba-vakili).
+
+
