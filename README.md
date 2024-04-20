@@ -34,3 +34,4 @@ Connect with me and explore more projects:
 
 Embark on a journey through the codebase and experience the seamless integration of React, Vite, and CSS in action. Your feedback is invaluable, so don't hesitate to reach out with any questions, suggestions, or ideas. Let's build something amazing together! 😊
 
+I learned it from [ZainRk YouTube channel](https://www.youtube.com/watch?v=rN1fNO-ATb0), where I've gained invaluable insights into web development. Big shoutout to ZainRk for the fantastic content and inspiration!
